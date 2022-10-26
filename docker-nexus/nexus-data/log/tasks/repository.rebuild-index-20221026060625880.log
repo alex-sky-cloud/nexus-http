@@ -1,0 +1,16 @@
+2022-10-26 06:06:25,884+0000 INFO  [quartz-9-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.index.RebuildIndexTask - Task information:
+2022-10-26 06:06:25,901+0000 INFO  [quartz-9-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.index.RebuildIndexTask -  ID: 62f27e10-7ddf-40c2-8038-d981fa9444ab
+2022-10-26 06:06:25,901+0000 INFO  [quartz-9-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.index.RebuildIndexTask -  Type: repository.rebuild-index
+2022-10-26 06:06:25,959+0000 INFO  [quartz-9-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.index.RebuildIndexTask -  Name: Repair - Rebuild repository search
+2022-10-26 06:06:25,960+0000 INFO  [quartz-9-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.index.RebuildIndexTask -  Description: Rebuilding search index of *
+2022-10-26 06:06:25,966+0000 INFO  [quartz-9-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.ElasticSearchFacetImpl - Rebuilding index of repository planner-releases
+2022-10-26 06:06:26,414+0000 INFO  [quartz-9-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.ElasticSearchFacetImpl - Rebuilding index of repository planner-snapshot
+2022-10-26 06:06:27,020+0000 INFO  [quartz-9-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.ElasticSearchFacetImpl - Indexed 4 / 4 planner-snapshot components in 151 ms
+2022-10-26 06:06:27,021+0000 INFO  [quartz-9-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.ElasticSearchFacetImpl - Rebuilding index of repository nuget.org-proxy
+2022-10-26 06:06:27,232+0000 INFO  [quartz-9-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.ElasticSearchFacetImpl - Rebuilding index of repository maven-releases
+2022-10-26 06:06:27,962+0000 INFO  [quartz-9-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.ElasticSearchFacetImpl - Rebuilding index of repository LocalPrivateDockerRepo
+2022-10-26 06:06:28,392+0000 INFO  [quartz-9-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.ElasticSearchFacetImpl - Rebuilding index of repository maven-snapshots
+2022-10-26 06:06:28,891+0000 INFO  [quartz-9-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.ElasticSearchFacetImpl - Rebuilding index of repository maven-central
+2022-10-26 06:06:29,497+0000 INFO  [quartz-9-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.ElasticSearchFacetImpl - Rebuilding index of repository planner-maven-central
+2022-10-26 06:06:29,865+0000 INFO  [quartz-9-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.ElasticSearchFacetImpl - Rebuilding index of repository nuget-hosted
+2022-10-26 06:06:30,284+0000 INFO  [quartz-9-thread-1]  *SYSTEM org.sonatype.nexus.repository.search.index.RebuildIndexTask - Task complete
