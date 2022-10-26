@@ -75,7 +75,7 @@ osgi.wiring.package; (&(osgi.wiring.package=org.sonatype.nexus.common.app)(versi
 osgi.wiring.package; (&(osgi.wiring.package=org.sonatype.nexus.repository.rubygems.orient)(version>=3.42.0))
 327; version=3.42.0
 osgi.wiring.package; (&(osgi.wiring.package=org.sonatype.nexus.repository.cache)(version>=3.42.0))
-255; version=3.42.0
+253; version=3.42.0
 osgi.wiring.package; (&(osgi.wiring.package=org.apache.shiro.authz.annotation)(version>=1.9.0))
 139; version=1.9.1
 osgi.wiring.package; (&(osgi.wiring.package=javax.ws.rs.client)(version>=2.0.0))
@@ -171,7 +171,7 @@ osgi.wiring.package; (&(osgi.wiring.package=com.google.common.collect)(version>=
 osgi.wiring.package; (&(osgi.wiring.package=org.codehaus.groovy.runtime.typehandling)(version>=2.4.0))
 120; version=2.4.17
 osgi.wiring.package; (&(osgi.wiring.package=org.sonatype.nexus.repository.search)(version>=3.42.0))
-253; version=3.42.0
+255; version=3.42.0
 osgi.wiring.package; (&(osgi.wiring.package=com.sonatype.nexus.plugins.healthcheck.service)(version>=3.42.0))
 281; version=3.42.0
 osgi.wiring.package; (&(osgi.wiring.package=javax.annotation)(version>=1.2.0))
@@ -201,7 +201,7 @@ osgi.wiring.package; (&(osgi.wiring.package=org.apache.commons.io)(version>=1.4.
 osgi.wiring.package; (&(osgi.wiring.package=org.sonatype.nexus.security.user)(version>=3.42.0))
 131; version=3.42.0
 osgi.wiring.package; (&(osgi.wiring.package=org.sonatype.nexus.repository.view)(version>=3.42.0))
-253; version=3.42.0
+257; version=3.42.0
 osgi.wiring.package; (&(osgi.wiring.package=org.codehaus.groovy.transform)(version>=2.4.0))
 120; version=2.4.17
 osgi.wiring.package; (&(osgi.wiring.package=com.sonatype.nexus.repository.nuget.datastore)(version>=3.42.0))

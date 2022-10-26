@@ -71,7 +71,7 @@ osgi.wiring.package; (&(osgi.wiring.package=org.sonatype.nexus.repository.rest.s
 osgi.wiring.package; (&(osgi.wiring.package=org.sonatype.nexus.common.app)(version>=3.42.0))
 103; version=3.42.0
 osgi.wiring.package; (&(osgi.wiring.package=org.sonatype.nexus.repository.cache)(version>=3.42.0))
-255; version=3.42.0
+253; version=3.42.0
 osgi.wiring.package; (&(osgi.wiring.package=com.fasterxml.jackson.annotation)(version>=2.13.0))
 152; version=2.13.2
 osgi.wiring.package; (&(osgi.wiring.package=org.apache.shiro.authz.annotation)(version>=1.9.0))
@@ -149,7 +149,7 @@ osgi.wiring.package; (&(osgi.wiring.package=javax.ws.rs.core)(version>=2.0.0))
 osgi.wiring.package; (&(osgi.wiring.package=org.sonatype.nexus.repository.content.store)(version>=3.42.0))
 269; version=3.42.0
 osgi.wiring.package; (&(osgi.wiring.package=org.sonatype.nexus.repository.importtask)(version>=3.42.0))
-255; version=3.42.0
+253; version=3.42.0
 osgi.wiring.package; (&(osgi.wiring.package=org.sonatype.nexus.repository.filter.export)(version>=3.42.0))
 253; version=3.42.0
 osgi.wiring.package; (&(osgi.wiring.package=org.sonatype.nexus.repository.content)(version>=3.42.0))
@@ -163,7 +163,7 @@ osgi.wiring.package; (&(osgi.wiring.package=com.google.common.collect)(version>=
 osgi.wiring.package; (osgi.wiring.package=org.apache.http.entity)
 78; version=0.0.0
 osgi.wiring.package; (&(osgi.wiring.package=org.sonatype.nexus.repository.search)(version>=3.42.0))
-253; version=3.42.0
+255; version=3.42.0
 osgi.wiring.package; (&(osgi.wiring.package=javax.annotation)(version>=1.2.0))
 0; version=1.2.0
 osgi.wiring.package; (&(osgi.wiring.package=org.sonatype.nexus.blobstore.api)(version>=3.42.0))
@@ -205,7 +205,7 @@ osgi.wiring.package; (&(osgi.wiring.package=org.sonatype.nexus.repository.group)
 osgi.wiring.package; (osgi.wiring.package=javax.xml.transform.dom)
 0; version=0.0.0
 osgi.wiring.package; (&(osgi.wiring.package=org.sonatype.nexus.repository.view)(version>=3.42.0))
-253; version=3.42.0
+257; version=3.42.0
 osgi.wiring.package; (&(osgi.wiring.package=org.sonatype.nexus.repository.purge)(version>=3.42.0))
 255; version=3.42.0
 osgi.wiring.package; (&(osgi.wiring.package=org.sonatype.nexus.repository.content.replication)(version>=3.42.0))

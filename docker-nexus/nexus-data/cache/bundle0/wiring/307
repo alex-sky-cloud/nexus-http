@@ -61,7 +61,7 @@ osgi.wiring.package; (&(osgi.wiring.package=org.sonatype.nexus.common.collect)(v
 osgi.wiring.package; (&(osgi.wiring.package=org.sonatype.nexus.security.user)(version>=3.42.0))
 131; version=3.42.0
 osgi.wiring.package; (&(osgi.wiring.package=org.sonatype.nexus.repository.view)(version>=3.42.0))
-253; version=3.42.0
+257; version=3.42.0
 osgi.wiring.package; (osgi.wiring.package=com.sonatype.clm.dto.model)
 282; version=1.49.5.01
 osgi.wiring.package; (osgi.wiring.package=com.sonatype.insight.rm.rest)

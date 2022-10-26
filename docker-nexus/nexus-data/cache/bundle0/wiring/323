@@ -57,7 +57,7 @@ osgi.wiring.package; (&(osgi.wiring.package=org.sonatype.nexus.repository.rest.s
 osgi.wiring.package; (&(osgi.wiring.package=org.sonatype.nexus.common.app)(version>=3.42.0))
 103; version=3.42.0
 osgi.wiring.package; (&(osgi.wiring.package=org.sonatype.nexus.repository.cache)(version>=3.42.0))
-255; version=3.42.0
+253; version=3.42.0
 osgi.wiring.package; (&(osgi.wiring.package=com.fasterxml.jackson.annotation)(version>=2.13.0))
 152; version=2.13.2
 osgi.wiring.package; (&(osgi.wiring.package=org.apache.shiro.authz.annotation)(version>=1.9.0))
@@ -131,7 +131,7 @@ osgi.wiring.package; (&(osgi.wiring.package=org.codehaus.groovy.runtime.typehand
 osgi.wiring.package; (&(osgi.wiring.package=com.orientechnologies.orient.core.iterator)(version>=2.2.0))
 223; version=2.2.37
 osgi.wiring.package; (&(osgi.wiring.package=org.sonatype.nexus.repository.search)(version>=3.42.0))
-253; version=3.42.0
+255; version=3.42.0
 osgi.wiring.package; (&(osgi.wiring.package=javax.annotation)(version>=1.2.0))
 0; version=1.2.0
 osgi.wiring.package; (&(osgi.wiring.package=org.sonatype.nexus.blobstore.api)(version>=3.42.0))
@@ -157,7 +157,7 @@ osgi.wiring.package; (&(osgi.wiring.package=org.apache.commons.io)(version>=1.4.
 osgi.wiring.package; (&(osgi.wiring.package=org.sonatype.nexus.repository.view.matchers.token)(version>=3.42.0))
 257; version=3.42.0
 osgi.wiring.package; (&(osgi.wiring.package=org.sonatype.nexus.repository.view)(version>=3.42.0))
-253; version=3.42.0
+257; version=3.42.0
 osgi.wiring.package; (&(osgi.wiring.package=org.sonatype.nexus.repository.purge)(version>=3.42.0))
 255; version=3.42.0
 osgi.wiring.package; (&(osgi.wiring.package=com.orientechnologies.orient.core.query)(version>=2.2.0))
